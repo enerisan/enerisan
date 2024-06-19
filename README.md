@@ -18,10 +18,10 @@
 🚀 I am currently working on...
 
          Project Eating nam nam, a website for sharing recipes 0 waste. 
+         https://github.com/WildCodeSchool-2024-02/WildCodeSchool-2024-02-JS-Remote-JavaScrypte-P3-FoodTastics
  
 📫 To contact me :
-         
-          https://www.linkedin.com/in/enerisan/
+         https://www.linkedin.com/in/enerisan/
 
 *´¨) 
 ¸.•´¸.•*´¨) ¸.•*¨) 
