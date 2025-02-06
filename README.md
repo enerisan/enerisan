@@ -11,7 +11,7 @@
          Titre Professionel Développeur web et web mobile (Bac +2). Bootcamp Full Stack Web Developer Javascript (Wild Code School, 2024).
 
 🧰 My Stack...    
-         Java, Javascript, React, Express, MySQL, Node JS, Git, Github, Figma, HTML5, CSS.
+         Java, Spring Boot, Angular, Docker, Javascript, Node JS, React, Express, MySQL, Git, Github, Figma, HTML5, CSS.
 
 🗺️ My Portfolio...
          https://www.enerisan.com/      
