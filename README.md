@@ -8,7 +8,7 @@
         family, a summer night, a beautiful illustrated album, and, of course, a piece of code that finally works!
 
 🎓 My Training ...         
-         Concepteur développeur d'applications (Bac +3).         
+         Concepteur développeur d'applications (Bac +3) (Greta Provence, 2025).         
          Titre Professionel Développeur web et web mobile (Bac +2). Bootcamp Full Stack Web Developer Javascript (Wild Code School, 2024).
 
 🧰 My Stack...    
