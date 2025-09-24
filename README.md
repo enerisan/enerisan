@@ -3,9 +3,9 @@
 (¸.•´ (¸.•` ¤  Hi there 👋
 
 👩🏼‍🦰  I´am ...
-         Eneri San, a Web developer in training.
+        Eneri San, a full-stack developer.
         I love discovering mysteries and solving problems, and the work of a developer is perfect for that. I'm naturally curious and always eager to learn. I enjoy the beauty of everyday life: a movie with 
-        family, a summer night, a beautiful illustrated album, and, of course, a piece of code that finally works!
+        family, a summer night, a beautiful illustrated album, and, of course,  a block of code of code that finally works!
 
 🎓 My Training ...         
          Concepteur développeur d'applications (Bac +3) (Greta Provence, 2025).         
